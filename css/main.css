@@ -9,12 +9,9 @@ background-color: rgb(255, 255, 255);
 }
 
 .main{
-    margin: 0 auto;
-    width: 100%;
+margin: 0 auto;
+width: 100%;
 }
-
-
-
 
 .menu-principal {
 width: 100%;
@@ -23,22 +20,22 @@ height: 90px;
 }
 
 .top5 h1{
-    text-align: center;
-    margin: 0 auto;
-    padding-top: 10px;
-    font-size: 50px;
-    width: 600px;
-    height: 0px;
-    color: rgb(0, 46, 83);
+text-align: center;
+margin: 0 auto;
+padding-top: 10px;
+font-size: 50px;
+width: 600px;
+height: 0px;
+color: rgb(0, 46, 83);
 }
 .logo {
- float: left;
- height: 10%;
+float: left;
+height: 10%;
 }
 
 .logo img{
- width: 80px;
- padding-left: 50px;
+width: 80px;
+padding-left: 50px;
 }
 
 .redes-sociais ul li {
@@ -54,47 +51,49 @@ font-size: 30px;
 padding-right: 50px;
 }
 
-
 .icon-color{
-    color: rgb(0, 46, 83);
+color: rgb(0, 46, 83);
 }
 
-
 .header-2{
-    background-color:rgb(0, 46, 83);
-    width: 100%;
-    height: 50px;
-    padding: 10px;
-    padding-left: 0%;
-    margin: 0 auto;
-    text-align: center;
+background-color:rgb(0, 46, 83);
+width: 100%;
+height: 50px;
+padding: 10px;
+padding-left: 0%;
+margin: 0 auto;
+text-align: center;
 }
 
 .header-2 ul li {
-    display: inline-block;
-    list-style: none;
-    text-transform: uppercase;
-    font-size: 20px;
-    margin: 0 auto;
-    padding-left: 40px;
-    text-align: center;
+display: inline-block;
+list-style: none;
+text-transform: uppercase;
+font-size: 20px;
+margin: 0 auto;
+padding-left: 40px;
+text-align: center;
 }
 
 .menu-text{
-    text-decoration: none;
-    color: rgb(255, 255, 255)
+text-decoration: none;
+color: rgb(255, 255, 255)
 }
 
 .coluna{
-    padding-left: 50px;
-    padding-right: 50px;
-    height: 300px;
-    padding-top: 50px;
+padding-left: 50px;
+padding-right: 50px;
+height: 300px;
+padding-top: 50px;
 }
+
+
+
+
 .pais img{
- float: left;
- height: 300px;
- width: 600px;
+float: left;
+height: 300px;
+width: 600px;
 }
 
 .pais p{
@@ -108,11 +107,11 @@ margin: 0 auto;
 }
 
 .nome-pais h2{
-    font-family: 'Dela Gothic One', cursive;
-    text-align: center;
-    padding-top: 50px;
-    font-size: 40px;
-    margin: 0 auto;
+font-family: 'Dela Gothic One', cursive;
+text-align: center;
+padding-top: 50px;
+font-size: 40px;
+margin: 0 auto;
 }
 
 .bandeira{
@@ -121,13 +120,13 @@ text-align: center;
 }
 
 .bandeira img{
-    width: 150px; 
+width: 150px; 
 }
 
 hr {
-    border: 1px solid rgb(0, 46, 83);
-    border-radius: 3px;
-  }
+border: 1px solid rgb(0, 46, 83);
+border-radius: 3px;
+}
 
 .borda{
 margin-top: 100px; 
@@ -136,75 +135,74 @@ width: 40%;
 
 
 .saiba-mais i {
-    font-size: 15px;
-    color: black;
+font-size: 15px;
+color: black;
 }
 
 
 .icon-color2{
-    color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 }
-#footer {
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
-    display: flex;
-    -moz-flex-wrap: wrap;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    width: calc(100%);
-    background-color:rgb(0, 46, 83);
-    margin-top: 50px;
-}
-
-    #footer > * {
-        width: calc(50% - 2em);
-        margin-left: 2em;
-        color: white;
-    }
-
-    #footer .copyright {
-        width: 100%;
-        margin: 2.5em 0 2em;
-        font-size: 0.8em;
-        text-align: center;
-    }
-
 
 .nome-itens h2{
-    font-family: 'Dela Gothic One', cursive;
-    text-align: center;
-    padding-top: 50px;
-    font-size: 20px;
-    margin: 0 auto;
+font-family: 'Dela Gothic One', cursive;
+text-align: center;
+padding-top: 50px;
+font-size: 20px;
+margin: 0 auto;
 }
 
 .itens p{
-    float:right ;
-    text-align: end;
-    width: 600px;
-    font-family: 'Vollkorn', serif;
-    line-height: 1.8;
-    font-size: 17px;
-    margin: 0 auto;
-    }
+padding-left: 1000px;
+text-align: end;
+font-family: 'Vollkorn', serif;
+line-height: 1.8;
+font-size: 17px;
+margin: 0 auto;
+}
 
 .itens img{
-        float: left;
-        height: 300px;
-        width: 600px;
- }
+float: left;
+height: 300px;
+width: 600px;
+}
 
- .titulo-itens h2{
-    font-family: 'Dela Gothic One', cursive;
-    text-align: center;
-    padding-top: 50px;
-    font-size: 30px;
-    margin: 0 auto;
+.titulo-itens h2{
+font-family: 'Dela Gothic One', cursive;
+text-align: center;
+padding-top: 50px;
+font-size: 30px;
+margin: 0 auto;
 }
 
 .itens ul {
-    float: right;
-    margin: 0px;
+float: right;
+margin-right: 100px;   
+}
+
+#footer {
+display: -moz-flex;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+-moz-flex-wrap: wrap;
+-webkit-flex-wrap: wrap;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+width: calc(100%);
+background-color:rgb(0, 46, 83);
+margin-top: 50px;
+}
+
+#footer > * {
+width: calc(50% - 2em);
+margin-left: 2em;
+color: white;
+}
+
+#footer .copyright {
+width: 100%;
+margin: 2.5em 0 2em;
+font-size: 0.8em;
+text-align: center;
 }
