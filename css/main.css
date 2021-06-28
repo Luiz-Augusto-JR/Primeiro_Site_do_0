@@ -8,6 +8,10 @@ margin: 0 auto;
 background-color: rgb(255, 255, 255);
 }
 
+.main{
+    margin: 0 auto;
+    width: 100%;
+}
 
 
 
@@ -137,24 +141,70 @@ width: 40%;
 }
 
 
+.icon-color2{
+    color: rgb(255, 255, 255);
+}
+#footer {
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: calc(100%);
+    background-color:rgb(0, 46, 83);
+    margin-top: 50px;
+}
 
-#button-addon1 {
-    color: #ffc371;
-  }
-  
-  i {
-    color: #ffc371;
-  }
-  
-  .form-control::placeholder {
-    font-size: 0.95rem;
-    color: #aaa;
-    font-style: italic;
-  }
-  
-  .form-control.shadow-0:focus {
-    box-shadow: none;
-  }
-  
+    #footer > * {
+        width: calc(50% - 2em);
+        margin-left: 2em;
+        color: white;
+    }
+
+    #footer .copyright {
+        width: 100%;
+        margin: 2.5em 0 2em;
+        font-size: 0.8em;
+        text-align: center;
+    }
 
 
+.nome-itens h2{
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.itens p{
+    float:right ;
+    text-align: end;
+    width: 600px;
+    font-family: 'Vollkorn', serif;
+    line-height: 1.8;
+    font-size: 17px;
+    margin: 0 auto;
+    }
+
+.itens img{
+        float: left;
+        height: 300px;
+        width: 600px;
+ }
+
+ .titulo-itens h2{
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.itens ul {
+    float: right;
+    margin: 0px;
+}
